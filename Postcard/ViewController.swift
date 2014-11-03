@@ -5,6 +5,7 @@
 //  Created by John Mulholland on 23/10/2014.
 //  Copyright (c) 2014 John Mulholland. All rights reserved.
 //
+//  Comment added 3/11/2014 to test git commits
 
 import UIKit
 
